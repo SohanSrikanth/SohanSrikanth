@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Srikanth</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+
 # 💫 About Me:
 🌱 I’m currently learning React Framework<br>💬 Ask me about Java and Web Dev<br>📫 How to reach me sohansrikanth220@gmail.com<br>📄 Know about my experiences https://drive.google.com/file/d/1eEi55Ivj2efobcIOotFmkXoKwZ3GqYSv/view?usp=sharing
 
