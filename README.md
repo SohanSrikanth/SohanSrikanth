@@ -8,8 +8,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohan_sri_27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-srikanth-nandam-32aa5b23b) 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sohan-srikanth-nandam-32aa5b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sohan-srikanth-nandam-32aa5b23b/" height="30" width="40" /></a>
-<a href="https://instagram.com/_sohan_sri_27_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sohan_sri_27_/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/phantom0_6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="phantom0_6" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sohansrikanth220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohansrikanth220" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/soloweeb_36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="soloweeb_36" height="30" width="40" /></a>
