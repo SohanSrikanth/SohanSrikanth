@@ -4,8 +4,7 @@
 
 # 💫 About Me:
 🌱 I’m currently learning React Framework<br>💬 Ask me about Java and Web Dev<br>📫 How to reach me sohansrikanth220@gmail.com<br>📄 Know about my experiences 
-[![Resume](https://img.shields.io/badge/Resume-%23E4405F.svg?logo=Resume&logoColor=white)]([https://drive.google.com/file/d/1eEi55Ivj2efobcIOotFmkXoKwZ3GqYSv/view?usp=sharing](https://drive.google.com/file/d/1XYi2P1HwCTCmeuct4-CGUnb65mae6LX5/view?usp=sharing))
-
+[![Resume](https://img.shields.io/badge/Resume-%23E4405F.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1XYi2P1HwCTCmeuct4-CGUnb65mae6LX5/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sohan_sri_27_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-srikanth-nandam-32aa5b23b) 
