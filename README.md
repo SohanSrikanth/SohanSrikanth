@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohan Srikanth</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 # 💫 About Me:
-🌱 I’m currently learning React Framework<br>💬 Ask me about Java and Web Dev<br>📫 How to reach me sohansrikanth220@gmail.com<br>📄 Know about my experiences 
+🌱 I’m currently working as Automation and Backend Developer at Lumen Technologies<br>💬 Ask me about Python, Shell Scripting, Linux, Java and Web Dev<br>📫 How to reach me sohansrikanth220@gmail.com<br>📄 Know about my experiences 
 [![Resume](https://img.shields.io/badge/Resume-%23E4405F.svg?logo=Resume&logoColor=white)](https://drive.google.com/file/d/1XYi2P1HwCTCmeuct4-CGUnb65mae6LX5/view?usp=drive_link)
 
 ## 🌐 Socials:
